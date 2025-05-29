@@ -46,10 +46,6 @@ Criar um espaço seguro onde usuários possam:
 - Aplicativo que não julga, mas acolhe
 - Design e linguagem voltados para cuidado e autonomia
 
-## 🛠️ Tecnologias sugeridas
-- **Front-end**: React Native ou React.js
-- **Back-end**: Firebase / Supabase
-- **Design**: Figma (foco em acessibilidade e leveza)
-- **Banco de dados**: Firestore ou PostgreSQL
+
 
 
